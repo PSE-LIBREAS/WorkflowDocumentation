@@ -6,6 +6,6 @@
 - LIBREAS Repo geforked
 - erste Durchsicht des Repos
 - Lagebesprechung zu den Themen:
-  - Problemaufriss
+  - [Problemaufriss](Problemaufriss.md)
   - Anforderungsanalyse
   - Zielstellung
