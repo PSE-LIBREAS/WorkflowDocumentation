@@ -8,4 +8,4 @@
 - Lagebesprechung zu den Themen:
   - [Problemaufriss](Problemaufriss.md)
   - Anforderungsanalyse
-  - Zielstellung
+  - [Zielstellung] (Zielstellung.md)
