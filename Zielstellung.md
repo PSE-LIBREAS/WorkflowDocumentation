@@ -1,0 +1,1 @@
+- Die bibliogrphischen Daten ausgabeübergreifend und in einem strukturierten Format darzustellen. 
