@@ -28,3 +28,4 @@ Frage: Wie können wir lokal entwickeln? Müssen wir einen Server (localhost), e
     > https://docs.github.com/articles/troubleshooting-jekyll-builds
 
     > If you have any questions you can submit a request at https://support.github.com/contact?repo_id=364520188&page_build_id=252739119
+ - Ordner für die Bibliografie anlegen und erste Schritte
