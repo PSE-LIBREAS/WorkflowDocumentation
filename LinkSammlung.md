@@ -16,4 +16,6 @@
 
 # pages
 
+[getting started](https://pages.github.com/)
+
 [Troubleshoting](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages#cname-errors)
