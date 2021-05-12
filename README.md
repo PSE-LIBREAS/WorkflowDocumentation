@@ -20,10 +20,10 @@ Frage: Wie können wir lokal entwickeln? Müssen wir einen Server (localhost), e
   - Grund: Warning Mail durch GitHub:
     > The page build completed successfully, but returned the following warning for the `master` branch: 
 
-    The CNAME `libreas.eu` is already taken. Check out https://docs.github.com/articles/troubleshooting-custom-domains#cname-errors for more information. 
+    > The CNAME `libreas.eu` is already taken. Check out https://docs.github.com/articles/troubleshooting-custom-domains#cname-errors for more information. 
 
-    For information on troubleshooting Jekyll see:
+    > For information on troubleshooting Jekyll see:
 
-    https://docs.github.com/articles/troubleshooting-jekyll-builds
+    > https://docs.github.com/articles/troubleshooting-jekyll-builds
 
-    If you have any questions you can submit a request at https://support.github.com/contact?repo_id=364520188&page_build_id=252739119 >
+    > If you have any questions you can submit a request at https://support.github.com/contact?repo_id=364520188&page_build_id=252739119 >
