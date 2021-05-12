@@ -14,7 +14,8 @@
 
 Frage: Lässt sich die Aktualisierung der Bibliographie automatisieren? Sprich: dynamisches Laden der Seite zum aktuell halten.  
 Frage: Wie können wir lokal entwickeln? Müssen wir einen Server (localhost), evtl node script, schreiben oder wie läuft es?  
-Frage: Existiert ein html Grundgerüst resp. Template?
+Frage: Existiert ein html Grundgerüst resp. Template?  
+Frage: Kompartibilität von jekyll und ruby in Erfahrung bringen.
 
 - [Linksammlung](LinkSammlung.md) erstellt
 - Libreas Website erfolgreich geklont und via pages veröffentlicht unter: https://pse-libreas.github.io
