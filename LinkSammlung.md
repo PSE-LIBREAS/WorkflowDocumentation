@@ -2,6 +2,8 @@
 
 # jekyll
 
+[jekyll documentation](https://jekyllrb.com/)
+
 [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar)  
 
 [jekyll-scholar-extras](https://github.com/jgoodall/jekyll-scholar-extras)  
