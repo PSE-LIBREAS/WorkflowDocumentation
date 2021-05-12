@@ -9,3 +9,7 @@
   - [Problemaufriss](Problemaufriss.md)
   - Anforderungsanalyse
   - [Zielstellung](Zielstellung.md)
+
+## 12 Mai 2021
+
+Frage: Lässt sich die Aktualisierung der Bibliographie automatisieren? Sprich: dynamisches Laden der Seite zum aktuell halten.
