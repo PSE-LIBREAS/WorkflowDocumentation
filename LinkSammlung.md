@@ -11,3 +11,9 @@
 [jekyll and bibTeX](https://pages.lip6.fr/Pascal.Poizat/blog/posts/2016/02/01/jekyll-and-bibtex/)
 
 [Citations in Fastpages via BibTeX and jekyll-scholar](https://drscotthawley.github.io/blog/2020/07/01/Citations-Via-Bibtex.html)
+
+[jekyll deployment with rake](http://davidensinger.com/2013/07/automating-jekyll-deployment-to-github-pages-with-rake/)
+
+# pages
+
+[Troubleshoting](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages#cname-errors)
