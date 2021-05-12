@@ -15,6 +15,7 @@
 Frage: Lässt sich die Aktualisierung der Bibliographie automatisieren? Sprich: dynamisches Laden der Seite zum aktuell halten.  
 Frage: Wie können wir lokal entwickeln? Müssen wir einen Server (localhost), evtl node script, schreiben oder wie läuft es? 
 
+- [Linksammlung](LinkSammlung.md) erstellt
 - Libreas Website erfolgreich geklont und via pages veröffentlicht unter: https://pse-libreas.github.io
 - CNAME file umbenannt in CNAME_ignore -- Achtung rückgängig machen!!!
   - Grund: Warning Mail durch GitHub:
