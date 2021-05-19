@@ -35,5 +35,8 @@ Frage: Kompartibilität von jekyll und ruby in Erfahrung bringen.
 
 ## 19 Mai 2021
 
-BrainStorming zur Anforderungsanalyse  
-Folie für den Pitch erstellen
+Folie für den Pitch erstellen  
+BrainStorming zur Anforderungsanalyse:  
+  
+- Wo soll die Bibliographie in der Seitenleiste (Navigation) platziert sein?  
+- Welche Funktionalitäten bietet uns jekyll-scholar und was können wir an Funktionalitäten zusätzlich implementieren?
