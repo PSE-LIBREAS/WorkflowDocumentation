@@ -35,5 +35,5 @@ Frage: Kompartibilität von jekyll und ruby in Erfahrung bringen.
 
 ## 19 Mai 2021
 
-BrainStorming zur Anforderungsanalyse
+BrainStorming zur Anforderungsanalyse  
 Folie für den Pitch erstellen
