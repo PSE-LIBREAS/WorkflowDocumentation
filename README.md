@@ -35,7 +35,8 @@ Frage: Kompartibilität von jekyll und ruby in Erfahrung bringen.
 
 ## 19 Mai 2021
 
-Folie für den Pitch erstellen  
+Folie für den [Pitch](https://docs.google.com/presentation/d/1a3fzjT55lzHuVVqnqHDQkSbnFN5oSHKIMs2XqHMaNs4/edit?usp=sharing
+) erstellen  
 BrainStorming zur Anforderungsanalyse:  
   
 - Wo soll die Bibliographie in der Seitenleiste (Navigation) platziert sein?  
