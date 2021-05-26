@@ -21,3 +21,7 @@
 [getting started](https://pages.github.com/)
 
 [Troubleshoting](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages#cname-errors)
+
+# GitHub Actions
+
+[Martino Pilia Blog Post](https://martinopilia.com/posts/2020/02/22/migration.html)
