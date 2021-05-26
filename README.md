@@ -41,3 +41,14 @@ BrainStorming zur Anforderungsanalyse:
   
 - Wo soll die Bibliographie in der Seitenleiste (Navigation) platziert sein?  
 - Welche Funktionalitäten bietet uns jekyll-scholar und was können wir an Funktionalitäten zusätzlich implementieren?
+
+## 26 Mai 2021
+
+Erste Versuche die Bibliographie zu integrieren:
+
+- jekyll-scholar als plugin integrieren (config.yml)
+- _bibliography Ordner in source angelegt
+
+Erste Begegnung mit GitHub Actions:
+
+- [Martino Pilia](https://martinopilia.com/posts/2020/02/22/migration.html)
