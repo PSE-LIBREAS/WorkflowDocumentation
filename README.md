@@ -52,3 +52,6 @@ Erste Versuche die Bibliographie zu integrieren:
 Erste Begegnung mit GitHub Actions:
 
 - [Martino Pilia](https://martinopilia.com/posts/2020/02/22/migration.html)
+
+
+Frage: Wie würde CI/CD Sinn machen... in welchen Intervallen könnten die Runner arbeiten?
