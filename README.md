@@ -61,4 +61,4 @@ Frage: Wie würde CI/CD Sinn machen... in welchen Intervallen könnten die Runne
 Die navbar findet sich unter: source/includes/custom  
 ruby Abhängigkeiten finden sich in gemfile.lock  
   
-Aufgabe: neues jekyll aufstetzen und an Libreas (fonts und colors; lanyon) anpassen, scholar installieren und erste Versuche bzügl github action unternehmen.
+Aufgabe: neues jekyll (upgrade) aufstetzen und an Libreas (fonts und colors; lanyon) anpassen, scholar installieren und erste Versuche bzügl github action unternehmen.
