@@ -16,6 +16,8 @@
 
 [jekyll deployment with rake](http://davidensinger.com/2013/07/automating-jekyll-deployment-to-github-pages-with-rake/)
 
+[jekyll themes](https://jekyllrb.com/docs/themes/)
+
 # GitHub pages
 
 [getting started](https://pages.github.com/)
