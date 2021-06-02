@@ -69,3 +69,4 @@ Fragen:
 1) Wie groß ist das Repo (Speicherplatz für lokale Instanz)? 
 2) Dependencies und Kompatibilität?
 3) Dokumentation des Gesamtsystems?
+4) Wo liegt der GitHub pages Gem file?
