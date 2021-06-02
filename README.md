@@ -62,3 +62,10 @@ Die navbar findet sich unter: source/includes/custom
 ruby Abhängigkeiten finden sich in gemfile.lock  
   
 Aufgabe: neues jekyll (upgrade) aufstetzen und an Libreas (fonts und colors; lanyon) anpassen, scholar installieren und erste Versuche bzügl github action unternehmen.
+
+## 02 Juni 2021
+
+Fragen:
+1) Wie groß ist das Repo (Speicherplatz für lokale Instanz)? 
+2) Dependencies und Kompatibilität?
+3) Dokumentation des Gesamtsystems?
