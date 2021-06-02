@@ -16,11 +16,13 @@
 
 [jekyll deployment with rake](http://davidensinger.com/2013/07/automating-jekyll-deployment-to-github-pages-with-rake/)
 
-# pages
+# GitHub pages
 
 [getting started](https://pages.github.com/)
 
 [Troubleshoting](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages#cname-errors)
+
+[Dependencies versions](https://pages.github.com/versions/)
 
 # GitHub Actions
 
