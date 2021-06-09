@@ -70,3 +70,8 @@ Fragen:
 2) Dependencies und Kompatibilität?
 3) Dokumentation des Gesamtsystems?
 4) Wo liegt der GitHub pages Gem file?
+
+
+## 09 Juni
+
+Jekyll getting started [Tutorial](https://www.youtube.com/watch?v=iWowJBRMtpc)
