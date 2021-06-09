@@ -74,4 +74,6 @@ Fragen:
 
 ## 09 Juni
 
-Jekyll getting started [Tutorial](https://www.youtube.com/watch?v=iWowJBRMtpc)
+- Jekyll getting started [Tutorial](https://www.youtube.com/watch?v=iWowJBRMtpc) geguckt  
+- Ordnerstruktur überarbeitet, alles was jekyll braucht, muss im root folder liegen  
+- Libreas .css eingefügt und 'theme-base-wes' ins body tag eingefügt
