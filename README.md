@@ -77,3 +77,14 @@ Fragen:
 - Jekyll getting started [Tutorial](https://www.youtube.com/watch?v=iWowJBRMtpc) geguckt  
 - Ordnerstruktur überarbeitet, alles was jekyll braucht, muss im root folder liegen  
 - Libreas .css eingefügt und 'theme-base-wes' ins body tag eingefügt
+
+## 16 Juni 2021
+
+- Versuch der Anpassung der Sidebar, vorerst hard gecoded - muss später als Template angepasst werden  
+- Versuch der Anpassung der config.yml  
+- Versuch der Übernahme des Headers  
+- Versuch der Übernahme des Footers  
+- Übernahme des Impressums  
+- Erster Versuch eine gh-action zu implementieren  
+  
+Aufgabe: Verstehen wie der build, den Naiko auf seiner Maschine macht, funktioniert.
