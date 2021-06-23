@@ -96,5 +96,7 @@ Aufgabe: Verstehen wie der build, den Naiko auf seiner Maschine macht, funktioni
   - Erfolgreich aufgesetzt!  
   - Auf gh-pages dürfen keine Dokumente/Dateien liegen die im weiteren noch benötigt werden.  
   - Die action/source muss auf main liegen, sonst sind diese nach einem push nicht mehr vorhanden.  
+  - Die css Dateien werden noch nicht eingebunden
   
-Aufgabe: Das Repo visualisieren, um verständlich zu machen was wo liegt und wie arbeitet
+Aufgabe: Das Repo visualisieren, um verständlich zu machen was wo liegt und wie arbeitet.  
+Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien liegen, wo müssen die css Dateien liegen??
