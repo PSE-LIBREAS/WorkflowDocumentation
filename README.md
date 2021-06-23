@@ -85,6 +85,16 @@ Fragen:
 - Versuch der Übernahme des Headers  
 - Versuch der Übernahme des Footers  
 - Übernahme des Impressums  
-- Erster Versuch eine gh-action zu implementieren  
+- Erster Versuch eine gh-action zu implementieren, hierbei sind alle unsere Dateien verloren gegangen...  
   
 Aufgabe: Verstehen wie der build, den Naiko auf seiner Maschine macht, funktioniert.
+
+## 23 Juni 2021
+
+- UNDO: wir holen unsere Dateien über 'git reset --hard <commit>' zurück.
+- Neuer Versuch eine gh-action zu implementieren
+  - Erfolgreich aufgesetzt!  
+  - Auf gh-pages dürfen keine Dokumente/Dateien liegen die im weiteren noch benötigt werden.  
+  - Die action/source muss auf main liegen, sonst sind diese nach einem push nicht mehr vorhanden.  
+  
+Aufgabe: Das Repo visualisieren, um verständlich zu machen was wo liegt und wie arbeitet
