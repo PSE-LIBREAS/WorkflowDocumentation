@@ -72,7 +72,7 @@ Fragen:
 4) Wo liegt der GitHub pages Gem file?
 
 
-## 09 Juni
+## 09 Juni 2021
 
 - Jekyll getting started [Tutorial](https://www.youtube.com/watch?v=iWowJBRMtpc) geguckt  
 - Ordnerstruktur überarbeitet, alles was jekyll braucht, muss im root folder liegen  
@@ -98,11 +98,12 @@ Aufgabe: Verstehen wie der build, den Naiko auf seiner Maschine macht, funktioni
   - Die action/source muss auf main liegen, sonst sind diese nach einem push nicht mehr vorhanden.  
   - Die css Dateien werden noch nicht eingebunden
   
-Aufgabe: Das Repo visualisieren, um verständlich zu machen was wo liegt und wie arbeitet.  
-Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien liegen, wo müssen die css Dateien liegen??
+Aufgabe: Das Repo visualisieren, um verständlich zu machen was wo liegt und wie gearbeitet wird.  
+Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien liegen, wo müssen die css Dateien liegen??  
   
+## 30. Juni 2021
   
- "link rel="stylesheet" href="https://pse-libreas.github.io/https://pse-libreas.github.io/public/css/poole.css" ist wie die stylesheet referenzen gebaut werden, kann es daran liegen (gesehen in der gebauten autorinnen html
-  jekyll scholar braucht zwingend UTF-8, abstract feld kann nicht angezeigt werden, per default wird "note" feld auch nicht angezeigt
-  
-  
+- Versuche der Integration diverser Inhalte (Autorinnen etc)  
+- Einbinden der css Datei
+- Versuch jekyll-scholar einzubinden
+- Versuch ein theme einzubinden
