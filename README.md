@@ -103,5 +103,6 @@ Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien 
   
   
  "link rel="stylesheet" href="https://pse-libreas.github.io/https://pse-libreas.github.io/public/css/poole.css" ist wie die stylesheet referenzen gebaut werden, kann es daran liegen (gesehen in der gebauten autorinnen html
-  jekyll scholar braucht zwingend UTF-8, abstract feld kann nicht angezeigt werden 
+  jekyll scholar braucht zwingend UTF-8, abstract feld kann nicht angezeigt werden, per default wird "note" feld auch nicht angezeigt
+  
   
