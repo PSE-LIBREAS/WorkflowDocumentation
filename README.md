@@ -102,4 +102,4 @@ Aufgabe: Das Repo visualisieren, um verständlich zu machen was wo liegt und wie
 Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien liegen, wo müssen die css Dateien liegen??
   
   
- " <link rel="stylesheet" href="https://pse-libreas.github.io/https://pse-libreas.github.io/public/css/poole.css"> " ist wie die stylesheet referenzen gebaut werden, kann es daran liegen (gesehen in der gebauten autorinnen html
+ "link rel="stylesheet" href="https://pse-libreas.github.io/https://pse-libreas.github.io/public/css/poole.css" ist wie die stylesheet referenzen gebaut werden, kann es daran liegen (gesehen in der gebauten autorinnen html
