@@ -107,3 +107,15 @@ Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien 
 - Einbinden der css Datei
 - Versuch jekyll-scholar einzubinden
 - Versuch ein theme einzubinden
+- löschen von `| absolute_url` in `_includes/head.html`
+- Theme einbinden nach Löschvorgang erfolgreich
+  
+## 02. Juli 2021
+
+- Löschen des gh-pages gems aus dem Gemfile
+- upgrade auf Jekyll v 4.2 und jekyll-scholar v 7.0
+- Erstellen eines `_plugins` Verzeichnisses
+- Erstellen einer jekyll-scholar.rb plugin Datei
+- kopieren von Code zur Darstellung von URLs und DOIs als klickbare Links in der Bibliographie
+- Action läuft und Links werden dargestellt, allerdings DOI nicht richtig
+- evtl. Regex anpassen oder csl?
