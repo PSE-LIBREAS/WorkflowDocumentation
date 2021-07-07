@@ -123,4 +123,6 @@ Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien 
 ## 07 Juli 2021
   
 - Einbindung diverser plugins im Gemfile (pygments.rb, rubypants, octopress-quote-tag, titlecase) 
+- Überlegungen zur Ordnerstruktur im Repo resp. der Website (alle vergangenen Ausgaben sollen in einem Archiv-Ordner abgelegt werden usw.)
+- Wir beginnen mit der Dokumentations für die Übergabe des Repos
   
