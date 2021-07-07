@@ -101,7 +101,7 @@ Aufgabe: Verstehen wie der build, den Naiko auf seiner Maschine macht, funktioni
 Aufgabe: Das Repo visualisieren, um verständlich zu machen was wo liegt und wie gearbeitet wird.  
 Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien liegen, wo müssen die css Dateien liegen??  
   
-## 30. Juni 2021
+## 30 Juni 2021
   
 - Versuche der Integration diverser Inhalte (Autorinnen etc)  
 - Einbinden der css Datei
@@ -110,7 +110,7 @@ Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien 
 - löschen von `| absolute_url` in `_includes/head.html`
 - Theme einbinden nach Löschvorgang erfolgreich
   
-## 02. Juli 2021
+## 02 Juli 2021
 
 - Löschen des gh-pages gems aus dem Gemfile
 - upgrade auf Jekyll v 4.2 und jekyll-scholar v 7.0
@@ -119,3 +119,8 @@ Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien 
 - kopieren von Code zur Darstellung von URLs und DOIs als klickbare Links in der Bibliographie
 - Action läuft und Links werden dargestellt, allerdings DOI nicht richtig
 - evtl. Regex anpassen oder csl?
+
+## 07 Juli 2021
+  
+- Einbindung diverser plugins im Gemfile (pygments.rb, rubypants, octopress-quote-tag, titlecase) 
+  
