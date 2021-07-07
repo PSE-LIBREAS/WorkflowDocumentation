@@ -18,6 +18,8 @@
 
 [jekyll themes](https://jekyllrb.com/docs/themes/)
 
+[ruby gems](https://rubygems.org/gems/)
+
 # GitHub pages
 
 [getting started](https://pages.github.com/)
