@@ -130,3 +130,4 @@ Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien 
   - Styling der Bibliographie
   - über html template und Javascript in Anlehnung an [sbryngelson](https://github.com/sbryngelson/sbryngelson.github.io) und einige der [issues](https://github.com/inukshuk/jekyll-scholar/issues?page=1&q=is%3Aissue+is%3Aclosed+bib) auf dem jekyll-scholar repo, toggable Buttons für Abstract und BibTeX erstellt
   - dazu Javascript im template eingefügt und im lanyon css unter `/* Bibliography */` noch ein paar sachen eingefügt
+  - evtl. könnten wir auch folgendes nochmal für die DOIs ausprobieren, anstatt die im url feld zu hinterlegen [issue330](https://github.com/inukshuk/jekyll-scholar/issues/330)
