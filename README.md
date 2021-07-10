@@ -126,3 +126,7 @@ Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien 
 - Überlegungen zur Ordnerstruktur im Repo resp. der Website (alle vergangenen Ausgaben sollen in einem Archiv-Ordner abgelegt werden usw.)
 - Wir beginnen mit der Dokumentations für die Übergabe des Repos
   
+## 10 Juli 2021
+  - Styling der Bibliographie
+  - über html template und Javascript in Anlehnung an [sbryngelson](https://github.com/sbryngelson/sbryngelson.github.io) und einige der [issues](https://github.com/inukshuk/jekyll-scholar/issues?page=1&q=is%3Aissue+is%3Aclosed+bib) auf dem jekyll-scholar repo, toggable Buttons für Abstract und BibTeX erstellt
+  - dazu Javascript im template eingefügt und im lanyon css unter `/* Bibliography */` noch ein paar sachen eingefügt
