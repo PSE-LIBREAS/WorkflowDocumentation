@@ -139,4 +139,5 @@ Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien 
 ## 12. Juli 21
   
   - ordered lists numerierung unterdrückt (list-style: none) in poole
+  -scss ordner eingefügt und versucht zu verlinken
   
