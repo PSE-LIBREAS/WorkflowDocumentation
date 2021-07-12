@@ -135,3 +135,8 @@ Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien 
 ## 11. Juli 2021 
   
   - Icons werden über zusätzliche scss files eingebunden, müssen wir unsere css files in scss ändern? 
+
+## 12. Juli 21
+  
+  - ordered lists numerierung unterdrückt (list-style: none) in poole
+  
