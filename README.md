@@ -138,6 +138,12 @@ Frage: Wie muss die Ordnerstruktur beschaffen sein, wo müssen die Quelldateien 
 
 ## 12. Juli 21
   
-  - ordered lists numerierung unterdrückt (list-style: none) in poole
-  -scss ordner eingefügt und versucht zu verlinken
+  - ordered lists numerierung unterdrückt (list-style: none) in poole layout  
+  - scss ordner eingefügt und versucht zu verlinken
+  - versuch die font-awesome icons einzubinden, diefont-awsome datei muss hierzu im fonts Ordner liegen
+  - Anpassung der preview für die BibTex Darstellung (overflow-x: scoll)
+  - kleinere Layout Anpassungen (headlines etc)
+  - Einfügen des Frontcover images  
+  - Arbeit an der Dokumentation
+  
   
